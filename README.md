@@ -84,4 +84,6 @@ Example tweets are classified as:
 ---
 
 ## 📊 Sample Output
-![Application Screenshot]()
+![Application Screenshot](Twitter-Sentiment-Analysis/screenshot1.png)
+
+![Application Screenshot](Twitter-Sentiment-Analysis/screenshot2.png)
